@@ -11,6 +11,7 @@ cargo test -- --nocapture
 ## Nice docs
 
 * <https://consensys.io/diligence/blog/2023/07/endeavors-into-the-zero-knowledge-halo2-proving-system/>
+* <https://ssjeon.blogspot.com/2023/12/summary-halo2-part-i-plonkish.html>
 
 ## Refs
 
